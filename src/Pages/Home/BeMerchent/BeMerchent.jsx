@@ -14,7 +14,7 @@ const BeMerchent = () => {
           <p className="py-6">
             We offer the lowest delivery charge with the highest value along
             with 100% safety of your product. Pathao courier delivers your
-            parcels in every corner of Bangladesh right on time.
+            parcels in every corner of Bangladesh right on time. thank you
           </p>
           <button className="btn bg-[#CAEB66] rounded-full mr-2">
             Become A Merchent
